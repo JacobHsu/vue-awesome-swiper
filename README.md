@@ -6,6 +6,17 @@
 
 CDN Example https://jsfiddle.net/bL983fjt/
 
+ 
+### Doc 
+
+[Swiper Parameters](https://idangero.us/swiper/api/)  
+
+Swiper3  
+
+[slidesPerView](https://3.swiper.com.cn/api/Slides_grid/2014/1215/24.html): 'auto'  
+[centeredSlides](https://3.swiper.com.cn/api/Slides_grid/2014/1217/50.html): true
+[spaceBetween](https://3.swiper.com.cn/api/Slides_grid/2015/0308/198.html):20
+
 
 ### github vue cli 3
 delete `README.md`  
